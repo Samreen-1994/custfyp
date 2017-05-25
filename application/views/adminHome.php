@@ -34,7 +34,7 @@
             </div>
         </div>
     </form>
-    <br><br>
+    <br><br><hr>
     <?php
     if ($this->session->userdata('type') == 'P') {
         include 'adminProposals.php';
