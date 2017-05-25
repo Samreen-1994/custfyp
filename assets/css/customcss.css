@@ -1,0 +1,16 @@
+#heading
+{
+font-size:40px;
+font-weight:bolder;
+text-align: center;
+}
+
+
+.table-borderless td,
+.table-borderless th {
+    border-bottom: none;
+    border-top: none;
+    border-left:none;
+    border-right: none;
+}
+
